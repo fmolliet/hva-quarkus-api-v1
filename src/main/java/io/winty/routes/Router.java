@@ -23,8 +23,8 @@ public class Router extends RouteBuilder {
         
         restConfiguration().bindingMode(RestBindingMode.auto);
         
-        rest("/hva/v1")
-            .id("REST ROUTER")
+        rest("/v1")
+            .id("V1 REST ROUTER")
             // .get()
             //    from("direct:listUsers")
             //     .to("direct:get")
