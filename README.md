@@ -1,4 +1,5 @@
-# camel-quarkus-learning Project
+# API Gateway v1 Project
+API gateway Camel orchestrator for Humanized Virtual Assistant in Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
